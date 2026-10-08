@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Original ReelsLocal mark: play triangle inside a rounded ring. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Ring -->
+    <path
+        android:pathData="M54,26 C69.46,26 82,38.54 82,54 C82,69.46 69.46,82 54,82 C38.54,82 26,69.46 26,54 C26,38.54 38.54,26 54,26 Z M54,31.5 C41.57,31.5 31.5,41.57 31.5,54 C31.5,66.43 41.57,76.5 54,76.5 C66.43,76.5 76.5,66.43 76.5,54 C76.5,41.57 66.43,31.5 54,31.5 Z"
+        android:fillColor="#FF2E63" />
+
+    <!-- Play triangle -->
+    <path
+        android:pathData="M47,42.5 L66,54 L47,65.5 Z"
+        android:fillColor="#08D9D6" />
+</vector>

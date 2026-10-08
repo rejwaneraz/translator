@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReelsLocal</string>
+
+    <!-- Bottom navigation -->
+    <string name="tab_home">Home</string>
+    <string name="tab_explore">Explore</string>
+    <string name="tab_inbox">Inbox</string>
+    <string name="tab_profile">Profile</string>
+
+    <!-- Home -->
+    <string name="home_for_you">For You</string>
+    <string name="home_following">Following</string>
+    <string name="home_switch_tab">Switch feed tab</string>
+    <string name="feed_empty">No videos yet</string>
+    <string name="feed_following_empty">You aren\'t following anyone yet</string>
+
+    <!-- Common actions -->
+    <string name="action_search">Search</string>
+    <string name="action_back">Back</string>
+    <string name="action_like">Like video</string>
+    <string name="action_comment">Open comments</string>
+    <string name="action_share">Share video</string>
+    <string name="action_save">Save video</string>
+    <string name="action_follow">Follow user</string>
+    <string name="action_open_profile">Open profile</string>
+    <string name="views_suffix">views</string>
+
+    <!-- Video feed / player -->
+    <string name="video_unavailable">Video unavailable</string>
+    <string name="video_tap_to_play">Tap to play</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_mute">Mute</string>
+    <string name="action_unmute">Unmute</string>
+    <string name="follow">Follow</string>
+    <string name="following">Following</string>
+    <string name="music_note">Music</string>
+
+    <!-- Explore / Search -->
+    <string name="explore_title">Explore</string>
+    <string name="search_hint">Search videos, people, hashtags</string>
+    <string name="search_clear">Clear search</string>
+    <string name="section_users">Users</string>
+    <string name="section_videos">Videos</string>
+    <string name="section_hashtags">Hashtags</string>
+    <string name="no_results">No results found</string>
+    <string name="search_prompt">Search your local library</string>
+
+    <!-- Profile -->
+    <string name="stat_followers">Followers</string>
+    <string name="stat_following">Following</string>
+    <string name="stat_likes">Likes</string>
+    <string name="verified">Verified</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="say_hi">Say hi</string>
+    <string name="tab_videos">Videos</string>
+    <string name="tab_liked">Liked</string>
+    <string name="tab_saved">Saved</string>
+    <string name="tab_following">Following</string>
+
+    <!-- Comments -->
+    <string name="comments_title">Comments</string>
+    <string name="no_comments">No comments yet. Say something!</string>
+    <string name="add_comment_hint">Add a comment…</string>
+    <string name="action_send">Send</string>
+    <string name="pinned">Pinned</string>
+
+    <!-- Inbox -->
+    <string name="inbox_title">Activity</string>
+    <string name="inbox_empty">No activity yet</string>
+    <string name="mark_all_read">Mark all read</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="section_appearance">Appearance</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="section_playback">Playback</string>
+    <string name="setting_autoplay">Autoplay videos</string>
+    <string name="setting_muted">Start muted</string>
+    <string name="setting_view_counts">Show view counts</string>
+    <string name="setting_comments">Show comments</string>
+    <string name="section_account">Account</string>
+    <string name="current_user">Current user</string>
+    <string name="switch_account">Switch account</string>
+    <string name="choose_account">Choose a local account</string>
+    <string name="section_data">Data</string>
+    <string name="content_manager">Content Manager</string>
+    <string name="content_manager_summary">Edit local users, videos and comments</string>
+    <string name="backup_restore">Backup &amp; Restore</string>
+    <string name="backup_restore_summary">Export or import your local library as JSON</string>
+    <string name="reset_settings">Reset settings</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_duplicate">Duplicate</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_add">Add</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_pick">Pick file</string>
+
+    <!-- Content Manager -->
+    <string name="cm_tab_users">Users</string>
+    <string name="cm_tab_videos">Videos</string>
+    <string name="cm_tab_comments">Comments</string>
+    <string name="cm_new_user">New user</string>
+    <string name="cm_edit_user">Edit user</string>
+    <string name="cm_new_video">New video</string>
+    <string name="cm_edit_video">Edit video</string>
+    <string name="cm_new_comment">New comment</string>
+    <string name="cm_edit_comment">Edit comment</string>
+    <string name="reset_and_reseed">Reset &amp; reseed</string>
+    <string name="reset_confirm_message">This wipes all local users, videos and comments, then restores the original sample content. This cannot be undone.</string>
+
+    <!-- Backup & restore -->
+    <string name="backup_title">Backup &amp; Restore</string>
+    <string name="backup_export">Export library</string>
+    <string name="backup_export_summary">Save all local users, videos, comments and activity to a JSON file</string>
+    <string name="backup_import">Restore library</string>
+    <string name="backup_import_summary">Replace current content from a previously exported JSON file</string>
+    <string name="backup_exported">Library exported</string>
+    <string name="backup_restored">Library restored</string>
+    <string name="backup_failed">Operation failed: %1$s</string>
+    <string name="backup_busy">Working…</string>
+    <string name="backup_import_warning">Restoring replaces everything currently stored on this device.</string>
+</resources>
